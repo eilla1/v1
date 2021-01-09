@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+}
+
+.icons {
+    text-align: center;
+}
+
+.icon {
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.intro-text {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
