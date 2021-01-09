@@ -3,12 +3,16 @@
 }
 
 .icons {
-    text-align: center;
+    margin-left: 48%;
 }
 
 .icon {
     padding-right: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+#webring-wrapper {
+    padding-bottom: 10px;
 }
 
 .intro-text {
