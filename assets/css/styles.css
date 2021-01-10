@@ -24,7 +24,13 @@
     text-align: center;
 }
 
-/* remove later */
-.temp {
-    text-align: center;
+.card {
+    padding: 0px;
+    border-style: solid;
+    border-width: 1px;
+    background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
+}
+
+.cards {
+    margin-left: 0px;
 }
